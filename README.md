@@ -16,4 +16,4 @@
 
 - :zap:  I Learning Laravel and And I try to face its challenges.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohamad-khodarahmi-b86620257)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohamad-khodarahmi-b86620257)
