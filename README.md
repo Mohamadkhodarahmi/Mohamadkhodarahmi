@@ -9,8 +9,8 @@
   
 </div>
 ### :technologist: About Me :
-<h4> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a junior Developer from IRAN.</h2>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+<h4> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Midlevel fullstack  Developer </h2>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. 
 
 - :seedling: Interested in the World of Technology.
 
